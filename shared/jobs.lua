@@ -106,6 +106,7 @@ QBShared.Jobs = {
                 payment = 1000
             },
         },
+    },
 	['rea'] = {
 		label = 'Real Estate',
 		defaultDuty = true,
