@@ -4048,7 +4048,7 @@ QBShared.Vehicles = {
 		['shop'] = 'pdm',
 	},--]]
 		-- Boats
-	--[[['squalo'] = {
+	['squalo'] = {
 		['name'] = 'Squalo',
 		['brand'] = 'Shitzu',
 		['model'] = 'squalo',
@@ -4209,7 +4209,7 @@ QBShared.Vehicles = {
 		['category'] = 'boats',
 		['hash'] = `toro2`,
 		['shop'] = 'boats',
-	},--]]
+	},
 	-- helicopters
 	--[[['buzzard2'] = {
 		['name'] = 'Buzzard',
