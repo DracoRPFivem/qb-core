@@ -30,9 +30,10 @@ QBShared.Jobs = {
             ['0'] = { name = 'DJ', payment = 100 },
 			['1'] = { name = 'Bartender', payment = 150 },
 			['2'] = { name = 'Dancer', payment = 200 },
-			['3'] = { name = 'Security', payment = 250 },
-			['4'] = { name = 'Manager', isboss = true, payment = 400},
-            ['5'] = { name = 'Owner', isboss = true, payment = 600
+            ['3'] = { name = 'Head Security', isboss = true, payment = 300 },
+			['4'] = { name = 'Security', payment = 200 },
+			['5'] = { name = 'Manager', isboss = true, payment = 400},
+            ['6'] = { name = 'Owner', isboss = true, payment = 600
             },
         },
 	},
