@@ -4556,7 +4556,7 @@ QBShared.Vehicles = {
     },
     ['sm722'] = {
         ['name'] = 'SM722',
-        ['brand'] = 'Benefacto',
+        ['brand'] = 'Benefactor',
         ['model'] = 'sm722',
         ['price'] = 125000,
         ['category'] = 'sports',
